@@ -1,0 +1,22 @@
+{
+  "kelas": [
+    {
+      "nama_kelas": "X-1",
+      "siswa": [
+        { "nama": "Raka Pratama", "jenis_kelamin": "L", "status": "pemain" }
+      ]
+    },
+    {
+      "nama_kelas": "X-2",
+      "siswa": [
+        { "nama": "Dimas Aditya", "jenis_kelamin": "L", "status": "pemain" }
+      ]
+    },
+    {
+      "nama_kelas": "X-3",
+      "siswa": [
+        { "nama": "Rizki Haryanto", "jenis_kelamin": "L", "status": "pemain" }
+      ]
+    }
+  ]
+}
