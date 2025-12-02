@@ -1,15 +1,17 @@
 {
-  "tim": {
-    "nama_tim": "Tim Putri A",
-    "pemain": [
-      { "nama": "Aulia Zahra", "status": "inti" },
-      { "nama": "Nadia Safitri", "status": "inti" },
-      { "nama": "Tiara Wulandari", "status": "inti" },
-      { "nama": "Citra Ayuningtyas", "status": "inti" },
-      { "nama": "Laila Novita", "status": "inti" },
+  "kelas": [
+    {
+      "nama_kelas": "X-Putri",
+      "siswa": [
+        { "nama": "Aulia Zahra", "jenis_kelamin": "P", "status": "inti" },
+        { "nama": "Nadia Safitri", "jenis_kelamin": "P", "status": "inti" },
+        { "nama": "Tiara Wulandari", "jenis_kelamin": "P", "status": "inti" },
+        { "nama": "Citra Ayuningtyas", "jenis_kelamin": "P", "status": "inti" },
+        { "nama": "Laila Novita", "jenis_kelamin": "P", "status": "inti" },
 
-      { "nama": "Melani Putri", "status": "cadangan" },
-      { "nama": "Karina Prameswari", "status": "cadangan" }
-    ]
-  }
+        { "nama": "Melani Putri", "jenis_kelamin": "P", "status": "cadangan" },
+        { "nama": "Karina Prameswari", "jenis_kelamin": "P", "status": "cadangan" }
+      ]
+    }
+  ]
 }
