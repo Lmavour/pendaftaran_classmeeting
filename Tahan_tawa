@@ -1,0 +1,22 @@
+{
+  "kelas": [
+    {
+      "nama_kelas": "X-1",
+      "siswa": [
+        { "nama": "Alya Putri", "jenis_kelamin": "P", "status": "pemain" }
+      ]
+    },
+    {
+      "nama_kelas": "X-2",
+      "siswa": [
+        { "nama": "Gilang Ramadhan", "jenis_kelamin": "L", "status": "pemain" }
+      ]
+    },
+    {
+      "nama_kelas": "X-3",
+      "siswa": [
+        { "nama": "Salsa Amelia", "jenis_kelamin": "P", "status": "pemain" }
+      ]
+    }
+  ]
+}
