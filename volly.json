@@ -13,34 +13,6 @@
 
         { "nama": "Dewi Kartika", "jenis_kelamin": "P", "status": "cadangan" }
       ]
-    },
-    {
-      "nama_kelas": "X-2",
-      "siswa": [
-        { "nama": "Dimas Aditya", "jenis_kelamin": "L" },
-        { "nama": "Arya Kurniawan", "jenis_kelamin": "L" },
-        { "nama": "Rendi Saputra", "jenis_kelamin": "L" },
-
-        { "nama": "Putri Melani", "jenis_kelamin": "P" },
-        { "nama": "Melisa Anggraini", "jenis_kelamin": "P" },
-        { "nama": "Karina Prameswari", "jenis_kelamin": "P" },
-
-        { "nama": "Lutfi Hidayat", "jenis_kelamin": "L", "status": "cadangan" }
-      ]
-    },
-    {
-      "nama_kelas": "X-3",
-      "siswa": [
-        { "nama": "Rizki Haryanto", "jenis_kelamin": "L" },
-        { "nama": "Akbar Maulana", "jenis_kelamin": "L" },
-        { "nama": "Fauzan Pradipta", "jenis_kelamin": "L" },
-
-        { "nama": "Tiara Wulandari", "jenis_kelamin": "P" },
-        { "nama": "Citra Ayuningtyas", "jenis_kelamin": "P" },
-        { "nama": "Laila Novita", "jenis_kelamin": "P" },
-
-        { "nama": "Niko Prasetyo", "jenis_kelamin": "L", "status": "cadangan" }
-      ]
     }
   ]
 }
